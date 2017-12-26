@@ -1,0 +1,3 @@
+setuptools
+vapi_runtime>=2.5.0
+vapi_common_client>=2.5.0
